@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		93141C6A1CD8FFB4006A6E20 /* UIView+AutoLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93141C691CD8FFB4006A6E20 /* UIView+AutoLayout.swift */; };
 		9357DEC01CCDECF1008DD505 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9357DEBF1CCDECF1008DD505 /* AppDelegate.swift */; };
 		9357DEC21CCDECF1008DD505 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9357DEC11CCDECF1008DD505 /* ViewController.swift */; };
 		9357DEC71CCDECF1008DD505 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9357DEC61CCDECF1008DD505 /* Assets.xcassets */; };
@@ -41,6 +42,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		93141C691CD8FFB4006A6E20 /* UIView+AutoLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIView+AutoLayout.swift"; sourceTree = "<group>"; };
 		9357DEBC1CCDECF0008DD505 /* swift08.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = swift08.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9357DEBF1CCDECF1008DD505 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9357DEC11CCDECF1008DD505 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -205,6 +207,7 @@
 		9357DEF71CCDFC07008DD505 /* Tools */ = {
 			isa = PBXGroup;
 			children = (
+				93141C691CD8FFB4006A6E20 /* UIView+AutoLayout.swift */,
 			);
 			path = Tools;
 			sourceTree = "<group>";
@@ -359,6 +362,7 @@
 				9357DEFD1CCE1511008DD505 /* ZHYDiscoverTableViewController.swift in Sources */,
 				9357DF061CCE762C008DD505 /* NullViewController.swift in Sources */,
 				9357DF011CCE36E6008DD505 /* ZHYProfileTableViewController.swift in Sources */,
+				93141C6A1CD8FFB4006A6E20 /* UIView+AutoLayout.swift in Sources */,
 				9357DEF91CCDFCA5008DD505 /* ZHYMainViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
